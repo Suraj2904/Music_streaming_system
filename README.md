@@ -1,15 +1,17 @@
 # Music_streaming_system
-This is Music Streaming System 
-<br>
-## Screenshot
+
+This is a Music Streaming System built with Python, MySQL, and Pygame.
+
+## 📸 Screenshot
+
 <p align="center">
-  <img src=" Screenshot 2026-02-19 175516.png" width="600">
+  <img src="assets/screenshot.png" width="700">
 </p>
 
-## Install Packages
-bash
+## 📦 Install Packages
+
+```bash
 pip install mysql-connector-python
 python -m pip install pygame mysql-connector-python
-
 
 
