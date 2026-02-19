@@ -5,7 +5,7 @@ This is a Music Streaming System built with Python, MySQL, and Pygame.
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="assets/screenshot.png" width="700">
+  <img src="Screenshot 2026-02-19 175516.png" width="500">
 </p>
 
 ## 📦 Install Packages
